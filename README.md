@@ -4,7 +4,7 @@ THIS PYTHON PACKAGE IS PREPARED BY YASH MUDGAL.
 
 Install
 
-`pip install git+ssh://git@github.com/yashmudgal05/preprocess_yash.git`
+`pip install git+https://github.com/yashmudgal05/preprocess_yash.git`
 
 Uninstall
 
